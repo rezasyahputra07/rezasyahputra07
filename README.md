@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  <!-- Interactive Visual Skill Icons -->
+  <!-- Visual Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,php,mysql,html,css,git,vscode,vercel&perline=11" />
   </a>
@@ -64,16 +64,9 @@
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rezasyahputra07&theme=tokyonight&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-
-  <br><br>
-
   <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rezasyahputra07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasyahputra07&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&cache_seconds=86400" width="47%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezasyahputra07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasyahputra07&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE" width="47%" alt="Top Languages" />
 
   <br><br>
 
