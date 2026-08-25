@@ -64,9 +64,8 @@
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rezasyahputra07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasyahputra07&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE" width="47%" alt="Top Languages" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezasyahputra07&theme=tokyo-night&hide_border=true&area=true" width="97%" alt="Activity Graph" />
 
   <br><br>
 
