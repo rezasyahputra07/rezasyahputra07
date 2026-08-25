@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Typing Animation -->
+  <!-- Header Typing Animation (Fixed URL Encoding) -->
   <a href="https://fahreza-syahputra.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Fahreza+Syahputra!+👋;Mobile+%26+Web+Developer+📱;Informatics+Engineering+Student+🎓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I%27m+Fahreza+Syahputra!+%F0%9F%91%8B;Mobile+%26+Web+Developer+%F0%9F%93%B1;Informatics+Engineering+Student+%F0%9F%8D%93" alt="Typing SVG" />
   </a>
 
   <p align="center">
