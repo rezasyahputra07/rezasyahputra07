@@ -60,12 +60,12 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Contribution Graph
 
 <div align="center">
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezasyahputra07&theme=tokyo-night&hide_border=true&area=true" width="97%" alt="Activity Graph" />
+  <!-- Stable SVG Contribution Graph -->
+  <img src="https://ghchart.rshah.org/00F2FE/rezasyahputra07" alt="GitHub Contribution Graph" width="100%" />
 
   <br><br>
 
