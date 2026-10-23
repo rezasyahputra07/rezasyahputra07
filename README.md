@@ -37,7 +37,7 @@
 
   <!-- Visual Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,php,mysql,html,css,git,vscode,vercel&perline=11" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,php,js,mysql,cpp&perline=11" />
   </a>
 
 </div>
